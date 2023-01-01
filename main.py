@@ -1,5 +1,15 @@
-def calculate_sum(a,b):
-    sum = a + b
-    return sum
-
-print("Sum of 2 and 3 is : ",calculate_sum(2,3))
+# By the type() function we can get the type of any variable declared
+# In this the variables are dynamically allocated to the datatype as the datatype is defined
+# by its content
+# global keyword is used to declare any variable in "global" scope
+# datatype = {
+#  "Text Type":	"str",
+#  "Numeric Types":	"int, float, complex",
+#  "Sequence Types":	"list, tuple, range",
+#  "Mapping Type":	"dict",
+#  "Set Types":	"set, frozenset",
+#  "Boolean Type":	"bool",
+#  "Binary Types":	"bytes, bytearray, memory view",
+#  "None Type":	"NoneType"
+# }
+#
